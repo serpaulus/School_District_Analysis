@@ -9,7 +9,8 @@ The original objective of this analysis to provide an updated school district an
 ### Changes on Analysis results are as follows:
 1. Is the district summary affected? The omitted 9th grade data does not have a major effect in the overall district results 
 2. How is the school summary affected? The changes mainly affect the data for Thomas High School
-3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The overall performance of Thomas High School was not affected as seen in the below snapshot.
+3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The overall performance of Thomas High School was not affected as seen in the [top five school snapshot](https://github.com/serpaulus/School_District_Analysis/commit/634aff053fe0aff2b172972fd152e911c180671e
+).
 
 
 
