@@ -10,7 +10,7 @@ The original objective of this analysis to provide an updated school district an
 1. Is the district summary affected? The omitted 9th grade data does not have a major effect in the overall district results 
 2. How is the school summary affected? The changes mainly affect the data for Thomas High School
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The overall performance of Thomas High School was not affected as seen in the below snapshot.
-![Top5HS](https://user-images.githubusercontent.com/85421407/126427496-1a19f720-b447-454f-8f98-0dba82feb8db.PNG)
+
 
 
 5. How does replacing the ninth-grade scores affect the following:
@@ -25,5 +25,5 @@ The following are the four changes detected in the district’s averages by the 
 3. % passing reading score changed from 85.8 to 85.7
 4. % of overall passing changed from 65.2 to 64.9
 
-![DistrictSummary](https://user-images.githubusercontent.com/85421407/126427630-065e06be-aeff-4623-bb2e-c75b960db49e.PNG)
+
 
