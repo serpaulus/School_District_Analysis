@@ -20,7 +20,7 @@ The original objective of this analysis to provide an updated school district an
     - Scores by school size. No significant effect 
     - Scores by school type. No significant effect
 ## Summary: 
-The following are the four changes detected in the district’s averages by the replacement of Thomas High School ninth grade scores with NaNs.
+The following are the four changes detected in the [district’s averages]() by the replacement of Thomas High School ninth grade scores with NaNs.
 1. Average math score changed from 79.0 to 78.9
 2. % passing math score changed from 75.0 to 74.8
 3. % passing reading score changed from 85.8 to 85.7
